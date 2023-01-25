@@ -7,10 +7,6 @@
 Hello, I'm Bonf <br>
 Thank you for visiting my github. <br>
    <br>
-  
-### Yagom Academy iOS Career Stater Camp 6th
-  (2022-04-11 ~ 2022-10-07)
- <br>
  
 </div>
  
